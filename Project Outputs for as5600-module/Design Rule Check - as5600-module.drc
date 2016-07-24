@@ -1,0 +1,34 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Chris\Documents\Git\magneticEncoder\as5600-module\as5600-module.PcbDoc
+Date     : 7/23/2016
+Time     : 8:46:26 PM
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Track (15.494mm,6.731mm)(15.494mm,7.493mm) on Top Layer And Pad ADR2-1(15.494mm,6.604mm) on Top Layer Location : [X = 162.605mm][Y = 127.596mm]
+   Violation between Short-Circuit Constraint: Between Track (15.494mm,9.525mm)(15.494mm,10.287mm) on Top Layer And Pad ADR1-1(15.494mm,9.398mm) on Top Layer Location : [X = 162.605mm][Y = 130.39mm]
+   Violation between Short-Circuit Constraint: Between Track (15.494mm,6.731mm)(15.494mm,7.493mm) on Top Layer And Track (15.494mm,6.604mm)(17.145mm,6.604mm) on Top Layer Location : [X = 162.61mm][Y = 127.501mm]
+   Violation between Short-Circuit Constraint: Between Track (15.494mm,9.525mm)(15.494mm,10.287mm) on Top Layer And Track (15.494mm,9.398mm)(16.764mm,9.398mm) on Top Layer Location : [X = 162.61mm][Y = 130.295mm]
+Rule Violations :4
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Track (15.494mm,6.731mm)(15.494mm,7.493mm) on Top Layer And Pad ADR2-1(15.494mm,6.604mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Track (15.494mm,9.525mm)(15.494mm,10.287mm) on Top Layer And Pad ADR1-1(15.494mm,9.398mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Track (15.494mm,6.731mm)(15.494mm,7.493mm) on Top Layer And Track (15.494mm,6.604mm)(17.145mm,6.604mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.15mm) Between Track (15.494mm,9.525mm)(15.494mm,10.287mm) on Top Layer And Track (15.494mm,9.398mm)(16.764mm,9.398mm) on Top Layer 
+Rule Violations :4
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=1mm) (Preferred=0.25mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=3.5mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 8
+Time Elapsed        : 00:00:01

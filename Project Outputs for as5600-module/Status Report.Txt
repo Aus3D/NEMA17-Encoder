@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [as5600-module.PrjPcb]
+   Generated File[as5600-module.GTL]
+   Generated File[as5600-module.GBL]
+   Generated File[as5600-module.GTO]
+   Generated File[as5600-module.GTP]
+   Generated File[as5600-module.GTS]
+   Generated File[as5600-module.GBS]
+   Generated File[as5600-module.GBP]
+   Generated File[as5600-module.GBO]
+   Generated File[as5600-module.GKO]
+   Generated File[as5600-module.RUL]
+   Generated File[as5600-module.EXTREP]
+   Generated File[as5600-module.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 9:07:50 PM On 7/23/2016
